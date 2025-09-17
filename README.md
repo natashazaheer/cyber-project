@@ -20,13 +20,13 @@ The project demonstrates, in a controlled lab environment, three main tasks:
 
 ---
 
-## ▶️ Demo Video
+## Demo Video
 A short demo of the project has been uploaded to YouTube:  
 [![Watch the Demo](https://img.youtube.com/vi/XilTmaAYFCs/0.jpg)](https://youtu.be/XilTmaAYFCs)
 
 ---
 
-## 🛠️ Lab Setup (High-Level)
+## Lab Setup (High-Level)
 - **Attacker:** Kali Linux (with Scapy & NetfilterQueue installed).  
 - **Victim:** Metasploitable3 VM and Genymotion Android emulator.  
 - **Network:** Host-only / NAT with IP forwarding enabled.  
@@ -34,18 +34,18 @@ A short demo of the project has been uploaded to YouTube:
 
 ---
 
-## 📑 Report
+## Report
 For detailed explanations, setup steps, and screenshots, see:  
 `project report updated2.docx`
 
 ---
 
-## 👨‍💻 Authors
+## Authors
 - Muhammad Ismail Wahla  
 - Natasha Zaheer  
 - Ameer Uqba Goraya  
 
 ---
 
-## ⚖️ License
+## License
 Educational use only. Unauthorized use of these scripts outside controlled environments is strictly prohibited.
